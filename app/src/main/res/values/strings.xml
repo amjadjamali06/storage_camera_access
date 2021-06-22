@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Camera</string>
+    <string name="image_view_desc">CapturedImages</string>
+
+</resources>
